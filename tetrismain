@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Tetris Game </title>
+<link rel="stylesheet" type="text/css" href="tetrisdesign.css" />
+
+</head>
+<body onkeydown="key()">
+<table border = "1">
+<td>
+<canvas id="tetrisgame" width ="100" height = "180" border = "1"><script src = "tetsgame.js"></script>
+</canvas>
+</td>
+</table>
+</body>
+</html>
